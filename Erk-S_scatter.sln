@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Erk-S_scatter", "Erk-S_scatter.pyproj", "{2CD60F09-A413-43B8-BC88-EB79E13FEA39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD60F09-A413-43B8-BC88-EB79E13FEA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD60F09-A413-43B8-BC88-EB79E13FEA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4211503-3928-42FF-A68F-A46AB5E98DC0}
+	EndGlobalSection
+EndGlobal
